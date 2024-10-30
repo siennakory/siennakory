@@ -7,8 +7,6 @@
 
 
   Contact: siennakory@gmail.com
-  
-  Pronouns: they/she
 
 <!---
 siennakory/siennakory is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
