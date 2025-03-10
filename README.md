@@ -5,6 +5,7 @@
   - CSS
   - Python
   - PHP
+  - SQL (using MariaDB)
 
 
   Contact: siennakory@gmail.com
